@@ -5,3 +5,6 @@
 .container2 {
     @apply w-4/5 mx-auto;
   }
+.custom-button{
+    @apply text-white px-6 py-2 rounded;
+}
