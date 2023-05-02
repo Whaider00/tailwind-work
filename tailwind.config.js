@@ -10,7 +10,7 @@ module.exports = {
         headercolor: "#f63232",
         primarycolor: "#feb614",
         secondarycolor: "#f4f4f4",
-        Textcolor: "#4b4b4b"
+        Textcolor: "#4b4b4b",
       }
     },
   },

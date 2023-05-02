@@ -640,6 +640,11 @@ video {
   background-color: rgb(21 21 21 / var(--tw-bg-opacity));
 }
 
+.bg-headercolor {
+  --tw-bg-opacity: 1;
+  background-color: rgb(246 50 50 / var(--tw-bg-opacity));
+}
+
 .bg-\[url\(\'\/dist\/assets\/images\/banner\.jpg\'\)\] {
   background-image: url('/dist/assets/images/banner.jpg');
 }
